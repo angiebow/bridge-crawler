@@ -1,0 +1,15 @@
+{
+  "name": "bridge-crawler",
+  "version": "1.0.0",
+  "description": "BridgeCrawler is a simple prototype that demonstrates how C++ can integrate with browser automation tools like Puppeteer.   It acts as a **bridge**: C++ takes user input, Puppeteer crawls the page, and results are sent back to C++ for display.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.19.0"
+  }
+}
